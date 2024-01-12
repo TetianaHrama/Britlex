@@ -1,0 +1,214 @@
+:root {
+    --main-color:#000000;
+    --sub-color:#8F95A5;
+    --white-color:#FFFFFF;
+    --button-background: #263238;
+}
+
+.header-link {
+color: var(--main-color);
+font-family: Poppins;
+font-size: 36px;
+font-weight: 400;
+line-height: normal;
+text-decoration: none;
+}
+.header-span{
+    color: var(--sub-color);
+font-family: Poppins;
+font-size: 36px;
+font-weight: 400;
+line-height: normal;
+}
+.header-item {
+    color: var(--main-color);
+font-family: Poppins;
+font-size: 20px;
+font-weight: 500;
+line-height: normal;
+}
+.header-button {
+    border-radius: 5px;
+    border: 2px solid var(--button-background);
+    color: var(--main-color);
+font-family: Poppins;
+font-size: 24px;
+font-weight: 400;
+line-height: normal;
+
+}
+.britlex-title{
+    color: var(--main-color);
+    font-family: Poppins;
+    font-size: 64px;
+    font-weight: 600;
+}
+.britlex-paragraph{
+color: var(--sub-color);
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.britlex-button{
+border-radius: 15px;
+background: var(--button-background);
+color: var(--white-color);
+font-family: Poppins;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.skills-title{
+    color: var(--main-color);
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+}
+.skills-name{
+color: var(--button-background);
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+}
+.skills-paragraph{
+    color: var(--button-background);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.skills-button{
+    border-radius: 5px;
+    background: var(--button-background);
+    color: var(--white-color);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 500;
+}
+.info-title{
+color: var(--main-color);
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+}
+.info-paragraph{
+    color: var(--sub-color);
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+.info-subject{
+color: var(--button-background);
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+}
+.info-subtitle{
+color: var(--sub-color);
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
+.price-title{
+    color: var(--main-color);
+    font-family: Poppins;
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 600;
+}
+.price-name{
+color: var(--button-background);
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 600;
+}
+.price-paragraph{
+    color: var(--sub-color);
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+}
+.price{
+color: var(--button-background);
+font-family: Poppins;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+}
+.price-span{
+    color: var(--sub-color);
+    font-family: Poppins;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+}
+.contact-title{
+color: var(--main-color);
+font-family: Poppins;
+font-size: 48px;
+font-style: normal;
+font-weight: 600;
+}
+.contact-paragraph{
+color: var(--sub-color);
+font-family: Poppins;
+font-size: 20px;
+font-style: normal;
+font-weight: 400;
+}
+.contact-form{
+    border-radius: 10px;
+    border: 1px solid var(--sub-color);
+}
+.contact-input {
+    color: var(--sub-color);
+    font-family: Poppins;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+}
+.contact-button{
+    border-radius: 10px;
+    background: var(--button-background);
+    color: var(--white-color);
+    font-family: Poppins;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+}
+.footer-link{
+color: var(--main-color);
+font-family: Poppins;
+font-size: 36px;
+font-style: normal;
+font-weight: 400;
+text-decoration: none;
+}
+.footer-span{
+    color: var(--sub-color);
+    font-family: Poppins;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 400;
+}
+.footer-paragraph{
+color: var(--sub-color);
+font-family: Poppins;
+font-size: 24px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+}
